@@ -1,6 +1,7 @@
 # Zadanie 001
 
-Wykonaj samodzielnie program desktopowy w języku python wykorzystujący bibliotekę tkinter. 
+Wykonaj samodzielnie program desktopowy w języku python wykorzystujący bibliotekę tkinter. \
+\
 Wymagania:
 * tytuł okna to numer z dziennika oraz imię
 * wymiary 420x300
