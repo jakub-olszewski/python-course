@@ -105,3 +105,4 @@ venv.bak/
 *.qmlc
 /src/tutorial/
 /src/ui/Readme.md
+/src/ui/*/rozwiazanie/
