@@ -1,4 +1,4 @@
-# Zadanie 011
+# Zadanie 012
 
 Twoim zadaniem jest stworzenie programu desktopowego w języku Python z wykorzystaniem biblioteki 
 tkinter. Program ten pozwoli użytkownikowi na otwieranie obrazów w formatach JPG i PNG,
